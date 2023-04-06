@@ -39,7 +39,7 @@ const Home = () => {
         </div>
       </div>
       {/* Lottie Animation */}
-      <div className='relative lg:w-1/2 '>
+      <div className='relative lg:w-1/2'>
         <div className='w-full lg:w-4/5 lg:ml-auto h-56  sm:h-96'>
           <Lottie animationData={animation} loop={true} />
         </div>
